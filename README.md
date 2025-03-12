@@ -14,7 +14,5 @@ This project presents an interactive dashboard for analyzing Zomato order data. 
 
 🛠 Tech Stack: Power BI, Data Visualization, Zomato Order Data
 
-📂 Explore the Dashboard: [Attach Link to GitHub Repo]
-
 Let me know if you need any refinements! 🚀
 
